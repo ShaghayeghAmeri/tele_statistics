@@ -1,0 +1,3 @@
+hazm==0.7.0
+python-bidi==0.4.2
+wordcloud==1.8.1
